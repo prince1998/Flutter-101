@@ -1,2 +1,2 @@
-# solid_waste_management
- Flutter 101
+# Flutter 101
+Basics of Flutter
